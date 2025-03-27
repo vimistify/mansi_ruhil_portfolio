@@ -9,25 +9,6 @@ type `npm start` and when u are done coding type `npm run build` to build your a
 
 <a href="https://www.buymeacoffee.com/mansiruhil1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
 
-### To make the contact form work
-
-- Create a account in [emailjs](https://www.emailjs.com/) create also new Outlook or Gmail account to be able
-  to send email.
-- Create a new service, select and log in to your newly created outlook or gmail account on EmailJS.
-- Go back to the dashboard and get the Service ID copy it.
-- Create a .env file in your root folder and put
-
-```
-
-NEXT_PUBLIC_USER_ID = 'YOUR_USER_ID'
-NEXT_PUBLIC_TEMPLATE_ID = 'template_fqqqb9g'
-NEXT_PUBLIC_SERVICE_ID = 'YOUR_SERVICE_ID'
-
-```
-
-into it. Replace \*your user id and your service ID with your values in your EmailJS service.
-
-
 ## This project was made using Create Next App! Here is the scripts that u can run.
 
 ### `npm start`
