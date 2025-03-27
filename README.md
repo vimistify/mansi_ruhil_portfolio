@@ -9,7 +9,7 @@ type `npm start` and when u are done coding type `npm run build` to build your a
 
 <a href="https://www.buymeacoffee.com/mansiruhil1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
 
-## This project was made using Create Next App! Here is the scripts that u can run.
+## This project was made using Create Next App. Here is the scripts that u can run.
 
 ### `npm start`
 
